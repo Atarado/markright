@@ -1,0 +1,9 @@
+EXAMPLE OF CONVERTING HTML TO MARKRIGHT
+
+python html2mr.py
+
+...will generate 
+
+atarado_out.mr 
+
+...markright file
