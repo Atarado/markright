@@ -63,11 +63,11 @@ to:
 
 ...or tag with atributes:
 
-    Link ( rel stylesheet, type text/css, href http://www.atarado.com/wp-content/style.css, media screen ) link
+    Link ( rel stylesheet, type text/css, href http://www.atarado.com/styles/style.css, media screen ) link
 
 to:
 
-    <link rel="stylesheet" type="text/css" href="http://www.atarado.com/Tesla/style.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="http://www.atarado.com/styles/style.css" media="screen" />
 
 
 ...or tag with attributes and content :
