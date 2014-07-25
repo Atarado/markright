@@ -29,7 +29,7 @@ Some reasons why markdown is usable:
 
 ###Shebang
 
-    #!/usr/bin/markdown
+    #!/usr/bin/markright
     
 ###Coding (python style)
 
