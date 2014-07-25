@@ -1,9 +1,5 @@
 markright
-=========
-
-
---- Working in progress...
-
+===========
 
 ####Not just another markup language.
 
@@ -20,11 +16,11 @@ Others languages are also embeddable from markright's part of document or from f
 Why all this hassle?
 --------
 
-Some reasons why markdown is usable:
+Some reasons why markright is usable:
 
-  * it is easier to type markdown then html or xml, because it uses only parentheses as the most common, among all types of brackets.
+  * it is easier to type markright then html or xml, because it uses only the most common brackets (parentheses), among all of the variations.
   * avoid much characters which makes typing harder (chevrons, quotations, slashes...)
-  * enables to slice parts of code into blocks which can be edited separately, and included when markdown is converting to (X,HT)ML
+  * enables to slice parts of code into blocks which can be edited separately, and included when markright is converting to (X,HT)ML or SVG
   
 
 ###Shebang
